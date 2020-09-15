@@ -1,6 +1,21 @@
-# product-initiatives
-Repo for product owners and management team to organize product initiatives
+# CHT Product Roadmap
+In this repository, you can find the Community Health Toolkit product roadmap. The product roadmap serves as a plan for how the Community Health Toolkit will grow to realize our vision; it is where you can learn about what product initiatives we are working on and what stage they are in. Please note, the roadmap is subject to change, especially further out on the timeline.
 
-Product initiatives are bodies of work to improve the Core Framework and associated tools. Initiatives are added to the appropriate product backlog to help organize and communicate information to stakeholders. 
+We are iterating on the format of the roadmap, and we value the engagement of Community members to discuss the future of CHT features and functionality. Have any questions or comments about items on the roadmap or roadmap format? Join the discussion over on the [Community Health Toolkit Forum](https://forum.communityhealthtoolkit.org/c/product/roadmaps/25).
 
-An initiative can emanate from existing Github issues (ie to pull them together and contextualize) or from identified product opportunities without Github issues (ie to explore an area that could generate new product requirements). In either scenario, they will contain collections of user stories that help to align the team around a shared understanding of the requirements for individual personas. Issues that spawn from product initiatives are scheduled to one or multiple release cycles.
+## Guide to the Roadmap
+
+### What is a product initiative?
+Product initiatives are high-level priorities that are completed to make progress on a theme. Initiatives are often worked on over multiple releases. An initiative owner is assigned to each prioritized initiative to flesh out the initiative’s objective(s), draft a roadmap, and break it down into release-sized chunks that can be scheduled in a product release. 
+
+### Roadmap Stages
+The roadmap is arranged on a project board to give a sense for how far out each item is on the horizon. Every initiative is added to a particular project board column according to when it is expected to be worked on.  The roadmap is organized into “now” “next” and “later” categories to communicate the product areas that we are focused-on to solve core product challenges or harness opportunities:
+
+| Stage | Description | Activities |
+| --- | --- | --- |
+| **Now** | Initiatives currently being worked on | UI design, deployment plan, engineering specs, impact validation |
+| **Next** | Initiatives coming up soon | Defining product initiatives, and concept notes with partners | 
+| **Later** | Initiatives that we’d like to work on in the future but need to do more research before they are ready for prioritization | High-level concepts with lots of flexibility | 
+
+### Roadmap Communication
+Updated initiatives are communicated quarterly to the CHT Community on the [CHT Forum](https://forum.communityhealthtoolkit.org/c/product/roadmaps/25). Where possible, we will link to specific issues and/or documentation to elaborate on what was completed to move an initiative forward. 
