@@ -13,9 +13,9 @@ Initiatives are arranged on a project board with the following stages to give a 
 
 | Stage | Description | Activities |
 | --- | --- | --- |
-| **Now** | Initiatives currently being worked on | UI design, deployment plan, engineering specs, impact validation |
-| **Next** | Initiatives coming up soon | Defining product initiatives, and concept notes with partners | 
-| **Later** | Initiatives that we’d like to work on in the future but need to do more research before they are ready for prioritization | High-level concepts with lots of flexibility | 
+| **Now** | Initiatives currently being worked on | Design, development, and release of related features and improvements |
+| **Next** | Initiatives we'll likely be pursuing next | Scope out features and improvements with partners| 
+| **Later** | Initiatives we may take on later | Early exploration of high level requirements, as well as partners and funding opportunities | 
 
 ### Roadmap Communication
 Updated initiatives are communicated quarterly to the CHT Community on the [CHT Forum](https://forum.communityhealthtoolkit.org/c/product/roadmaps/25). Where possible, we will link to specific issues and/or documentation to elaborate on what was completed to move an initiative forward. 
