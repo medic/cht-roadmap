@@ -5,7 +5,7 @@ We are iterating on the format of the roadmap, and we value the engagement of Co
 
 ## Guide to the Roadmap
 
-### What is a product initiative?
+### What is a Product Initiative?
 Product initiatives are high-level priorities that are completed to make progress on a theme. Initiatives are often worked on over multiple releases. An initiative owner is assigned to each prioritized initiative to flesh out the initiative’s objective(s), draft a roadmap, and break it down into release-sized chunks that can be scheduled in a product release. 
 
 ### Roadmap Stages
