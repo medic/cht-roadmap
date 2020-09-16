@@ -6,7 +6,7 @@ We are iterating on the format of the roadmap, and we value the engagement of Co
 ## Guide to the Roadmap
 
 ### What is a Product Initiative?
-Product initiatives are high-level priorities that are completed to make progress on a theme. Initiatives are often worked on over multiple releases. An initiative owner is assigned to each prioritized initiative to flesh out the initiative’s objective(s), draft a roadmap, and break it down into release-sized chunks that can be scheduled in a product release. 
+Product initiatives are specific areas to improve the CHT that align with its medium and long-term vision. Initiatives are often worked on over multiple releases. When an initiative is scheduled, an "initiative owner" is assigned. Their role is to flesh out the objectives of the initiative, and break it down into release-sized chunks that can be scheduled into upcoming releases. 
 
 ### Roadmap Stages
 The roadmap is arranged on a project board to give a sense for how far out each item is on the horizon. Every initiative is added to a particular project board column according to when it is expected to be worked on.  The roadmap is organized into “now” “next” and “later” categories to communicate the product areas that we are focused-on to solve core product challenges or harness opportunities:
