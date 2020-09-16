@@ -9,7 +9,7 @@ We are iterating on the format of the roadmap, and we value the engagement of Co
 Product initiatives are specific areas to improve the CHT that align with its medium and long-term vision. Initiatives are often worked on over multiple releases. When an initiative is scheduled, an "initiative owner" is assigned. Their role is to flesh out the objectives of the initiative, and break it down into release-sized chunks that can be scheduled into upcoming releases. 
 
 ### Roadmap Stages
-The roadmap is arranged on a project board to give a sense for how far out each item is on the horizon. Every initiative is added to a particular project board column according to when it is expected to be worked on.  The roadmap is organized into “now” “next” and “later” categories to communicate the product areas that we are focused-on to solve core product challenges or harness opportunities:
+Initiatives are arranged on a project board with the following stages to give a sense for how far out each item is on the horizon:
 
 | Stage | Description | Activities |
 | --- | --- | --- |
