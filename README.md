@@ -1,3 +1,6 @@
+## This repo is archived and no longer used.
+### Please refer to [Roadmap](https://roadmap.communityhealthtoolkit.org) and [Forum](https://forum.communityhealthtoolkit.org/c/product) instead. 
+
 # CHT Product Roadmap
 In this repository, you can find the Community Health Toolkit product roadmap. The product roadmap serves as a plan for how the Community Health Toolkit will grow to realize our vision; it is where you can learn about what product initiatives we are working on and what stage they are in. Please note, the roadmap is subject to change, especially further out on the timeline.
 
