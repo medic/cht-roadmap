@@ -1,13 +1,19 @@
 ---
 name: Product Initiative
-about: 'Please see the template for guidance: https://docs.google.com/document/d/1tntFCoP_oDrq3LVyvekQRTRG7dKjqwt9QHnQA8a9lZI/edit#heading=h.q31g948sivit'
+about: A new product iniative to be put on the high-level roadmap.
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-**Brief overview of the initiative**
+**Overview**
+[basic initiative overview goes here]
 
-
-**Link to the google drive folder where info for the initiative is being managed**
+**Progress with high-level steps:**
+- [ ] Updated opportunity solution tree
+- [ ] Solution story maps
+- [ ] Solution selection
+- [ ] Assumption investigation
+- [ ] Development
+- [ ] Deployment
