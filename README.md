@@ -13,7 +13,7 @@ Initiatives are outlined on the [project board](https://github.com/orgs/medic/pr
 | --- | --- | --- |
 | **Emerging** | Initiatives are currently under initial discussions | Early exploration discussions, analysis of emerging requirements, and feedback collection/scope out features and improvements with community members. The outcome of these activities is an initiative to be co-built/co-created by the community |
 | **Active** | Community members are actively working on the defined initiative, for example, in a squad | Squad formation, building & testing| 
-| **Winding Down** | The built feature is ready for release | Releasing new feature to production, addition of feature to CHT releases and retrospectives  | 
+| **Winding Down** | The initiative is ready for release or closure | Releasing new CHT functionalities and/or adoption to production environments. Adoption of new processes. | 
 
 ### Roadmap Communication
 Updated initiatives are communicated on the [CHT Forum](https://forum.communityhealthtoolkit.org/c/product/roadmaps/25) and discussed on the CHT Roundup calls. Where possible, we will link to specific issues and/or documentation to elaborate on what was completed to move an initiative forward. 
