@@ -1,5 +1,5 @@
 # CHT Roadmap
-In this repository, you can find the [Community Health Toolkit product roadmap](https://github.com/orgs/medic/projects/112). The product roadmap serves as a plan for how the CHT Community will grow to realize the shared Community vision; it is where you can learn about what community initiatives the community is working on and what stage they are in. Please note, the roadmap is subject to change, especially further out on the timeline.
+In this repository, you can find the [Community Health Toolkit roadmap](https://github.com/orgs/medic/projects/112). This roadmap serves as a high-level plan for how the CHT will grow to realize the shared community vision; it is where you can learn about what initiatives the community is working on and what stage they are in. 
 
 ## Guide to the Roadmap
 
