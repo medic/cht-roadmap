@@ -12,7 +12,7 @@ Initiatives are outlined on the [project board](https://github.com/orgs/medic/pr
 | Stage | Description | Activities |
 | --- | --- | --- |
 | **Emerging** | Initiatives are currently under initial discussions | Early exploration discussions, analysis of emerging requirements, and feedback collection/scope out features and improvements with community members. The outcome of these activities is an initiative to be co-built/co-created by the community |
-| **Active** | Partners and interested community members form a squad and actively begin building the defined feature | Squad formation, building & testing| 
+| **Active** | Community members are actively working on the defined initiative, for example, in a squad | Squad formation, building & testing| 
 | **Winding Down** | The built feature is ready for release | Releasing new feature to production, addition of feature to CHT releases and retrospectives  | 
 
 ### Roadmap Communication
