@@ -1,1 +1,1 @@
-You can see the Roadmap on the [CHT Doc Site](http://docs.communityhealthtoolkit.org/community/roadmap/).
+Read more about the CHT Roadmap on the [CHT Docs Site](http://docs.communityhealthtoolkit.org/community/roadmap/).
